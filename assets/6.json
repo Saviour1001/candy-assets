@@ -1,0 +1,50 @@
+{
+  "name": "Alexander's Dummy Collection #6",
+  "symbol": "ADC",
+  "description": "Solana to the MOOOON !!",
+  "seller_fee_basis_points": 1000,
+  "image": "6.png",
+  "external_url": "https://github.com/Saviour1001",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "SetvuyoJy3FiYSkAxDG2w7X2qhiZEuD1kFZ7hE4voWm",
+        "share": 100
+      }
+    ]
+  }
+}
